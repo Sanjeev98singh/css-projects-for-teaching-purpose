@@ -20,6 +20,11 @@ This repository contains a variety of CSS projects aimed at teaching essential c
 - CSS variables and custom properties
 - Media queries and mobile-first design
 
+## Live Project
+
+Check out our live project deployment to practice your own by looking at our live project  
+[]()
+
 ## How to Use This Repository
 
 1. Clone or fork this repository to your local machine.
