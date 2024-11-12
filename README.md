@@ -11,7 +11,7 @@ This repository contains a variety of CSS projects aimed at teaching essential c
 - **Concept-Focused Lessons**: Each project emphasizes specific CSS concepts.
 - **Hands-On Learning**: Practical, real-world examples to reinforce your understanding.
 
-## Key Topics Covered
+## Key Topics Covered while working with CSS Projects
 
 - Responsive layouts
 - Flexbox and Grid systems
